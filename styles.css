@@ -1,0 +1,33 @@
+body {
+  color: #7f5d44;
+}
+body {
+font-family:Century Gothic;
+}
+em {
+  font-weight: bold;
+  color: #dbc8ba
+}
+body {
+  background: linear-gradient(to bottom,
+      #648977 0%,
+      #648977 13%,
+      #dbc8ba 13%,
+      #dbc8ba 100%);
+}
+
+h1 {
+  color: white
+}
+
+h2, h3 {
+  font-family: Segoe Script;
+  color: #294b3a
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 2.5px;
+  border-color: #413a30;
+  width: 80%;
+}
